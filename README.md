@@ -1,3 +1,5 @@
+![Status-Em Desenvolvimento-blue](https://user-images.githubusercontent.com/93163125/232818189-d3bd8f3c-595d-46fa-bd68-0064cc27506b.svg)
+
 <p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formulários"> </p>
 
 <hr>
